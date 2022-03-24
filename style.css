@@ -1,0 +1,14 @@
+.pomodoro{
+    width:600px;
+    border:2px solid black;
+    margin-top:50px
+}
+.pomo_timer{
+    font-size: 80px;
+}
+.pomodoro_value{
+    margin-bottom: 30px;
+}
+.pomodoro_time_set{
+    margin-bottom:30px;
+}
